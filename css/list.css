@@ -139,6 +139,7 @@ form input[type="text"] {
     padding: 10px 20px;
     outline: none;
     border: none;
+    width:80%;
 }
 
 form input[type="button"] {
